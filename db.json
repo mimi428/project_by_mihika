@@ -2,23 +2,5 @@
     "users": [
       { "id": 1, "username": "admin", "password": "admin123" },
       { "id": 2, "username": "mihika", "password": "112233" }
-    ],
-    
-    "questions": [
-        {
-        "id": 1,
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "answer": "Paris"
-        },
-        {
-        "id": 2,
-        "question": "What is 2 + 2?",
-        "options": ["2", "22", "44", "4"],
-        "answer": "4"
-        }
-        ],
-    "scores": []
-      
-      
+    ] 
   }
